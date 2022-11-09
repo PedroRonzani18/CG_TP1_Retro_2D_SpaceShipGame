@@ -31,15 +31,15 @@
 
    2) Possible upgrades:
    
-       a) damage increase;
+        a) damage increase;
        
-       b) increases firerate;
+        b) increases firerate;
        
-       c) increases HP (MAX: 4);
+        c) increases HP (MAX: 4);
        
-       d) increases number of shots realesed in a cicle (1, 2, 3);
+        d) increases number of shots realesed in a cicle (1, 2, 3);
        
-       e) changes the projectile's model (default, colides with walls, follows an enemy).
+        e) changes the projectile's model (default, colides with walls, follows an enemy).
 
    3) The game ends when the player kills the boss, or when he dies (loses all 4 lives).
 
