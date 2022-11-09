@@ -10,18 +10,27 @@
 - Compile and run Project: make run
 
 - Controls in Menu:
+
     W: up;
+    
     S: down;
+    
     SPACE: selects Level or Help ("Ajuda").
    
 - Controls in Ajuda:
+
     SPACE: goes back to menu;
     
 - Controls in Level:
+
     W: moves player up;
+    
     A: moves player left;
+    
     S: moves player down;
+    
     D: moves player right;
+    
     SPACE: shoots projectiles.
     
 - Closing game at any given moment: ESC.
