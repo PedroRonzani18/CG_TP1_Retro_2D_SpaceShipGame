@@ -1,4 +1,4 @@
-# Retro2DAirplaneGame
+# Strike-Gunner-CTC
 - This game was developed as a Project for a Computer Graphics class
 
 - External Libreries used: freeglut, SOIL.
