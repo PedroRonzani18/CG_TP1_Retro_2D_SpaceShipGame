@@ -21,10 +21,10 @@
 ## Keyboard Controls
 
 ### Controls in Menu
-- W: up
-- S: down
-- SPACE: enters selected 
-- ESC: Closes the game
+- **W**: up
+- **S**: down
+- **SPACE**: enters selected 
+- **ESC**: Closes the game
    
 ### Controls in Ajuda
 - SPACE: goes back to menu
