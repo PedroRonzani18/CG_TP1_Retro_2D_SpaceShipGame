@@ -1,41 +1,44 @@
 # Strike-Gunner-CTC
+
+## Initial information
+
 - This game was developed as a Project for a Computer Graphics class
-
-- External Libreries used: freeglut, SOIL.
- 
 - Operating system used: Linux (Ubuntu).
-
 - Main language: C++
 
-- Compile and run Project: make run
+## Necessary libs
 
-- Controls in Menu:
+- Freeglut: sudo apt-get install freeglut3-dev
+- SOIL: sudo apt-get install libsoil-dev
 
-    W: up;
-    
-    S: down;
-    
-    SPACE: selects Level or Help ("Ajuda").
+## How to compile and execute
+
+- Compile: make all
+- Run separately: after using "make all", use "./main"
+- Compile and run: make run
+- Clear: make clear
+
+## Keyboard Controls
+
+### Controls in Menu
+- W: up
+- S: down
+- SPACE: enters selected 
+- ESC: Closes the game
    
-- Controls in Ajuda:
+### Controls in Ajuda
+- SPACE: goes back to menu
+- ESC: Closes the game
 
-    SPACE: goes back to menu;
-    
-- Controls in Level:
+### Controls in Level:
+- W: moves player up;  
+- A: moves player left;  
+- S: moves player down;
+- D: moves player right;  
+- SPACE: shoots projectiles.
+- ESC: Closes the game
 
-    W: moves player up;
-    
-    A: moves player left;
-    
-    S: moves player down;
-    
-    D: moves player right;
-    
-    SPACE: shoots projectiles.
-    
-- Closing game at any given moment: ESC.
-
-- Relevant Observations:
+## Relevant Observations:
    1) When an enemy dies, there is a probability, set as the enemy's atribute, of him releasing an item that upgrades the player's weapon.
 
    2) Possible upgrades:
@@ -54,4 +57,4 @@
 
    4) There may or may not be something waiting for you after the credits.
 
-- Thanks for your atention, and good luck!
+- Thanks for your atention, and good game!
