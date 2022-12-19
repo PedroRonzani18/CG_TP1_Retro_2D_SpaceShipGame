@@ -48,5 +48,6 @@
    5. changes the projectile's model (default, colides with walls, follows an enemy)
 3. The game ends when the player kills the boss, or when he dies (loses all 4 lives)
 4. There may or may not be something waiting for you after the credits
+5. (link)[] for the previous versions
 
 ## Thank you for your atention, and good game!
