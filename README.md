@@ -48,6 +48,6 @@
    5. changes the projectile's model (default, colides with walls, follows an enemy)
 3. The game ends when the player kills the boss, or when he dies (loses all 4 lives)
 4. There may or may not be something waiting for you after the credits
-5. Link to [previous versions](https://github.com/PedroRonzani18/Arquivos_Programas/tree/master/Computa%C3%A7%C3%A3o%20Gr%C3%A1fica/Avaliacoes/TP1) of this project
+5. Link to [previous versions]https://github.com/PedroRonzani18/Projects-Previous-Versions/tree/main/CTC%20(TP1)) of this project
 
 ## Thank you for your atention, and good game!
