@@ -6,16 +6,16 @@
 Player::Player() : MovableEntity(), Ballistic()
 {
     this->type = 0;
-    this->alteredFireRate = 0.2;
+    this->alteredFireRate = 1;
     this->angle = 0;
     this->angularSpeed = 0;
     this->currentProjectile = Projectile(0);
     this->typeTiroManager = 0;
     this->displayListModel = textures[14];
-    this->numberOfShots = 3;
+    this->numberOfShots = 1;
     this->onScreen = GL_TRUE;
     this->imortality = 0;
-    this->hp = 5;
+    this->hp = 3;
     this->fireRatePeriod = 0;
     this->scoreHp = Score(1);
 
@@ -39,7 +39,6 @@ void Player::move()
 
 void Player::damage()
 {
-    /*
     this->currentProjectile = Projectile(0);
     this->typeTiroManager = 0;
     this->alteredFireRate = 1;
@@ -47,7 +46,7 @@ void Player::damage()
 
     this->currentProjectile.setHp(1);
     this->imortality = 120;
-    */
+    
 }
 
 void Player::setHp(const double& hp)
